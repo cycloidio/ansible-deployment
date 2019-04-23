@@ -5,5 +5,5 @@ In order to execute some specific scenarios, as similar as possible to current c
 The current use cases we want to test are:
 
 - Artifact 1: Code without any configuration.
-  - Artifact 1.1: with remote template.
 - Artifact 2: Code with locally template.
+- Templates: A remote template to test remote fetch.
