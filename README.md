@@ -6,4 +6,3 @@ The current use cases we want to test are:
 
 - Artifact 1: Code without any configuration.
 - Artifact 2: Code with locally template.
-- Templates: A remote template to test remote fetch.
