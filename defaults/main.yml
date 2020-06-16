@@ -98,6 +98,7 @@ ansistrano_php5_fpm_enabled: false
 # Legacy namming
 ansistrano_php_fpm_enabled: "{{ansistrano_php5_fpm_enabled}}"
 ansistrano_php_fpm_service_name: "php5-fpm"
+ansistrano_php_fpm_service_handler_state: "restarted"
 
 # Sensu
 ansistrano_sensu_enabled: false
